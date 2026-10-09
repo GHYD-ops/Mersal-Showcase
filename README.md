@@ -1,24 +1,35 @@
-# 💌 Mersal
+# Mersal | مرسال
 
-**A little message, beautifully delivered.**
+**Making every occasion a little more memorable.**
 
-Mersal is a personal creative project featuring a collection of digital greeting cards, thoughtfully designed to celebrate special moments and share meaningful messages.
+Mersal is a creative digital brand specializing in beautifully designed electronic greeting cards and personalized QR code experiences, bringing a modern and thoughtful touch to special occasions.
 
-Each card is a unique, interactive web experience made to bring a personal touch to every occasion.
+## About the Project
 
+Mersal is an independently owned and developed project that combines creativity, design, and web development to deliver elegant, accessible, and interactive digital experiences.
 
-## ♡ About the Project
+## Features
 
-Mersal was created to turn simple greetings into memorable digital experiences, combining creativity, thoughtful details, and interactive design.
+- Digital greeting card collections
+- Personalized QR code experiences
+- Elegant and modern designs
+- Responsive experiences across devices
+- Arabic and English language support
 
-Every card tells its own little story.
+## My Role
 
-## © Copyright
+**Founder, Owner & Web Developer**
 
-© 2026 Ghaida. All Rights Reserved.
+Responsible for the concept, branding, UI/UX design, front-end development, and ongoing improvement of Mersal.
 
-See [COPYRIGHT.md](COPYRIGHT.md) for copyright and usage restrictions.
+## Project Showcase
 
----
+This repository serves as a public portfolio showcase of Mersal's designs and development.
 
-*Designed & developed with ♡ by Ghaida.*
+The project is independently created and maintained by **GHYD-ops**.
+
+## Copyright
+
+© 2026 Mersal. All rights reserved.
+
+All original designs, branding assets, and creative content are the property of Mersal. Unauthorized reproduction or commercial use is prohibited without permission.
