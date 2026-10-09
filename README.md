@@ -22,6 +22,16 @@ Mersal is an independently owned and developed project that combines creativity,
 
 Responsible for the concept, branding, UI/UX design, front-end development, and ongoing improvement of Mersal.
 
+## Greeting Card Collection
+
+<p align="center">
+  <img src="previews/card-01.png" width="280" />
+  <img src="previews/card-02.png" width="280" />
+  <img src="previews/card-03.png" width="280" />
+  <img src="previews/card-04.png" width="280" />
+  <img src="previews/card-05.png" width="280" />
+</p>
+
 ## Project Showcase
 
 This repository serves as a public portfolio showcase of Mersal's designs and development.
