@@ -1,4 +1,4 @@
-# Mersal | مرسال
+# Mersal | مِرسال
 
 **Making every occasion a little more memorable.**
 
